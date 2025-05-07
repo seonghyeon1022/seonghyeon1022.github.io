@@ -114,11 +114,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seonghyeon KIM"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "프론트엔드 개발자 <br/> 대구대학교 컴퓨터공학전공 <br/>"
+  location         : "Gyeongju, South Korea"
+  email            : "gogo20sh@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
